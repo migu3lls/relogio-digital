@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cab > h1 {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.cab > p {
+    text-align: center;
+    padding: 10px;
+    padding-top: 0px;
+}
+
+.sobre div, a2{
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+    text-align: center;
+}
+
+.main  {
+    margin: 20px;
+    display: flex;
+    align-items: center ;
+    justify-content: center;
+    flex-direction: row;
+    display: flex;
+    align-items: flex-start;
+}
+
+.main p, h1, h4, a {
+    padding: 10px;
+}
+
+.main a {
+    padding: 10px;
+    margin: 5px;
+}
+
+.main-1  {
+    margin-right: 20px;
+    padding: 30px;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 100%;
+    height: auto;
+}
+
+.main-2  {
+    display: inline-block;   
+    vertical-align: top; 
+    margin: 0px;
+    padding: 20px;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    width: 40%;
+    height: auto;
+}
+
+.section{
+    background-color: rgb(236, 234, 234);
+    padding: 10px;
+    margin: 5px;
+    padding-top: 0px;
+}
+
+.footer{
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
+
